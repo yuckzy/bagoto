@@ -1,3 +1,4 @@
+//paramaterized constructor
 #include <iostream>
 using namespace std;
 

@@ -20,7 +20,7 @@ class Rectangle: public Shape {
       int getArea();
 };
 
-Rectangle::getArea() { 
+int Rectangle::getArea() { 
 return width * height;
 }
 
